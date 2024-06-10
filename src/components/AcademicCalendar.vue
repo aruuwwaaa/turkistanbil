@@ -8,7 +8,7 @@
     </p>
 
     <a
-      href="https://docs.google.com/spreadsheets/d/12zDp2-gsfxoysz7-J8PIxPE4xB0yALJp5bcTyGj3dXM/edit#gid=734390112"
+      href="https://docs.google.com/spreadsheets/d/1fHjyc5fZWUFlwA1eSAxbNONyB-HmZELoe0qhQeCbAxg/edit#gid=1828163805"
       class="link-item"
       >2023-2024 оқу жылына арналған жылдық күнтізбе</a
     >
